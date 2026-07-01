@@ -6,10 +6,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-![GitHub stars](https://img.shields.io/github/stars/yahayahayat/express-rabbitmq-microservices?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/yahayahayat/express-rabbitmq-microservices?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/yahayahayat/express-rabbitmq-microservices?style=for-the-badge)
-![GitHub License](https://img.shields.io/github/license/yahayahayat/express-rabbitmq-microservices?style=for-the-badge)
 
 > A lightweight event-driven microservices architecture built with **Express.js**, **RabbitMQ**, and **MongoDB**, containerized for local development using **Docker** and **Docker Compose**.
 
