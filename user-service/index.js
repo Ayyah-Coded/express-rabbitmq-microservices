@@ -6,7 +6,7 @@ import bodyParser from 'body-parser';
 const app = express();
 const PORT = 3001
 
-app.use(bodyParser.json())
+app.use(express.json());
 
 
 mongoose.connect('mongodb://mongo:27017/users')
