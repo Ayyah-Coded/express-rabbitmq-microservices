@@ -34,6 +34,20 @@ The project was built as a learning exercise to gain hands-on experience with:
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="./assets/rabbitmq-dashboard.png" width="48%" alt="RabbitMQ Dashboard"/>
+  <img src="./assets/docker-containers.png" width="48%" alt="Docker Containers"/>
+</p>
+
+<p align="center">
+  <img src="./assets/postman-create-task.png" width="48%" alt="Create Task"/>
+  <img src="./assets/notification-service-log.png" width="48%" alt="Notification Service"/>
+</p>
+
+---
+
 ## 🏗️ Architecture
 
 ```text
